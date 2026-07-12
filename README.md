@@ -1,4 +1,4 @@
-# 💾 Heuristic Brew: Happenstance Collision
+# Heuristic Brew: Happenstance Collision
 ### An Industrial Manual and Forensic Audit Framed as an Adversarial Scalpel
 
 ---
